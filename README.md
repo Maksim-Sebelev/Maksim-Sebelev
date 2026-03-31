@@ -5,7 +5,7 @@
 ## Контакты
 
 Telegram: **@Maksim_Sebelev**\
-Почта: **sebelev.mm@phystech.edu**\
+Почта: **sebelev.mm@phystech.edu**
 
 ## Лучшие проекты:
 - [ParaCL](https://github.com/MaxGud10/Mandelbrot) - компилятор учебного языка программирования
