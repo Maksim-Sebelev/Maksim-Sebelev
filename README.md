@@ -6,7 +6,6 @@
 
 Telegram: **@Maksim_Sebelev**\
 Почта: **sebelev.mm@phystech.edu**\
-[CV](https://github.com/MaxGud10/MaxGud10/blob/main/Максим%20Гудчиков.pdf)  
 
 ## Лучшие проекты:
 - [ParaCL](https://github.com/MaxGud10/Mandelbrot) - компилятор учебного языка программирования
